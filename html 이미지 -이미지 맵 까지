@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  Hello world
+  <script src="script.js"></script>
+
+  <p> website</p>
+
+  <blockquote cite="http://www.worldwildlife.org/who/index.html">
+    For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, W
+    이것은 인용을 위한 html
+  </blockquote>
+
+
+  <p>wwf's goal is to: <q> build a future where people live harmory with nature</q></p>
+
+
+
+  <address>
+    written by joo<br>
+    visit us at:<br>
+    example.com<br>
+    box 564, disneyland<br>
+    USA
+  </address>
+
+  <p> <cite> the screen</cite> by edard munch paint in 1893</p>
+
+  <bdo dir="rtl"> this text will be written from right to left</bdo>
+
+
+
+  <!-- this is a comment -->
+  <p>this is a paragraph</p>
+  <!-- remember to add more information here -->
+
+
+
+  <p>this is a paragraph</p>
+  <!--<p> this is another paragraph</p> -->
+  <p>this is a paragraph too</p>
+
+  <p> this is a paragraph</p>
+  <!--
+  <p> look at this cool image:</p>
+  <img border="0" src = "pic_trulli.jpg" alt = "Trulli">
+  -->
+
+  <p>this is a paragraph too.</p>
+
+  <p>this <!--great text --> is a paragraph.</p>
+
+
+  <h1 style="backgroud-color:DodgerBlue;">Hello World</h1>
+  <p style="background-color: Tomato;"> Lorem ipsum..</p>
+
+
+  <h1 style="color:Tomato;">안녕 나는..</h1>
+  <p style="color: DorgerBlue;"> Lorem iqsum..</p>
+  <p style="color:MediumSeaGreen;"> Ut wisi enim..</p>
+
+
+  <h1 style="border: 2px solid Tomato;"> hello world</h1>
+  <h1 style="border:2px solid DodgerBlue;">hello world</h1>
+  <h1 style="border:2px solid Violet;"> hello world</h1>
+
+  <h1 style="background-color:rgb(255, 99, 71);">...</h1>
+  <h1 style="background-color:#ff6347;">...</h1>
+  <h1 style="background-color:hsl(9, 100%, 64%);">...</h1>
+
+  <h1 style="backgrond-color:rgba(255, 99, 71,0.5;">..</h1>
+  <h1 style="background-color:hsla(9, 100%, 64%, 0.5);">..</h1>
+
+
+
+  <h1 style="background-color:#ff0000;">#ff0000</h1>
+  <h1 style="background-color:#0000ff;">#0000ff</h1>
+  <h1 style="background-color:#3cb371;">#3cb371</h1>
+  <h1 style="background-color:#ee82ee;">#ee82ee</h1>
+  <h1 style="background-color:#ffa500;">#ffa500</h1>
+  <h1 style="background-color:#6a5acd;">#6a5acd</h1>
+
+
+  <h1 style="color:blue;"> A Blue Heading</h1>
+  <p style="color:red;"> A red paragraph</p>
+
+
+
+  <style>
+    body<background-color;
+    powderblue;
+
+    >h1 {
+      color: blue
+    }
+
+    p {
+      color: black;
+    }
+  </style>
+
+  <h1> this is a heading</h1>
+  <p> this is a paragraph</p>
+
+
+
+
+
+
+
+
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <h1> this is a you know?</h1>
+
+  body{
+  background-color:powderblue;
+  }
+  h1{
+  color: blue;
+  }
+
+  p{
+  color: red;
+  }
+
+
+
+  <style>
+    h2 {
+      color: blue;
+      font-fmaily: verdana;
+      font-size: 300%;
+    }
+
+    p1 {
+      color: red;
+      font-familly: courier;
+      font-size: 160%;
+    }
+  </style>
+
+  <h2>this is skip</h2>
+  <p1>this is go </p1>
+
+
+
+
+  p{
+  border: 2px solid powderblue;
+  }
+
+  p{
+  border: 2px solid powderblue;
+  padding: 30px;
+  }
+
+  p{
+  border: 2px solid powderblue;
+  margin: 50px;
+  }
+
+  <link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
+
+  <link rel="stylesheet" href="/html/style.css">
+
+  <link rel="stylesheet" href="style.css">
+
+  <a href="url"> link text</a>
+
+  <a href="https://www.w3schools.com/"> visit w3schools.com!</a>
+
+  <a href="https://www.w3schools.com/" target="black">visit w3school!</a>
+
+
+  <h2>Absolute URLs</h2>
+  <p><a href="" https://www.w3.org/">W3C</a></p>
+  <p><a href="" https://www.google.com/">Google</a></p>
+
+  <h2> Relative URLs</h2>
+  <p><a href="html_images.asp">HTML Images</a></p>
+  <p><a href="/css/default.asp">CSS Tutorial</a></p>
+
+  <a href="default.asp">
+    <img src="smily.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+  </a>
+
+  <a href="mailto.someone@example.com"> Send email</a>
+
+  <button onclick="document.location='default.asp'">HTML Tutorial</button>
+
+  <a href="https://www.w3schools.com/html/" title-"GO to W3School HTML section"> Visit our HTML Tutorial</a>
+
+  <a href="https://www.w3schools.com/html/default.asp"> HTML tutorial</a>
+
+  <a href="/html/default.asp">HTML tutorial</a>
+
+  <a href="default.asp"> HTML tutorial</a>
+
+  <style>
+    a:link {
+      color: green;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+    a:visited {
+      color: pink;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: red;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    a:active {
+      color: yellow;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+  </style>
+
+  <style>
+    a:link,
+    a:visited {
+      background-color: #f44336;
+      color: white;
+      padding: 15px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    a:hover,
+    a:active {
+      background-color: red;
+    }
+  </style>
+
+
+  <style>
+    a:link,
+    a:visited {
+
+      background-color: #f44336;
+      color: white;
+      padding: 10px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    a:hover,
+    a:active {
+      background-color: red;
+    }
+  </style>
+
+
+  <h2 id="C4" Chapter 4 </h2>
+
+
+
+
+
+    <a href="#C4"> jump to chapter 4</a>
+
+    <a href="html_demo.html#C4">Jump to Chapter 4</a>
+
+
+    <img src="pic_trulli.jpg" alt="Italian Trulli">
+
+    <img src="img_girl.jpg" alt="Girl in a jacket">
+
+    <img src="img_chania.jpg" alt="Flowers in Chania">
+
+    <img src="img_chania.jpg" alt="Flowers in Chania">
+
+    <img src="img_gil.jpg" alt="Girl in a jacket" style="witdh:500px;height:600px;">
+
+    <style>
+      img {
+        width: 100%;
+      }
+    </style>
+
+    <body>
+
+      <img src="html5.gif" alt="HTML5 Icon" with="128" height="128">
+
+      <img src="html5.gif" alt="HTML5 Icon" style="width=128px;
+  height=" 128px;">
+
+    </body>
+
+
+    <img src="images/html5.gif" alt="HTML5 Icon" style="width:128px; height:128px;">
+
+    <img src="https://www.w3schools.com/images/w3scholls_green.jpg" alt="W3school.com">
+
+
+    <img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;">
+
+    < a href="default.asp">
+      <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+      </a>
+
+
+
+      <p><img src="smiley.gif" alt="Smiley face" style="float:right; width:42px;height:42px;">
+
+        the image will float to the right of the text</p>
+
+      <img src="smiley.gif" alt="Smiley face" style="float:left; width:42px; height:42;">
+      the image will float to the left of the text</p>
+
+
+      <img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+      <map name="workmap">
+        <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+        <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+        <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+      </map>
+
+
+      <img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+      <map name="workmap">
+
+
+
+
+
+        <area shape="rect coords=" 34, 44, 270, 350" href="computer.htm">
+
+        <area shape="circle" coords="337, 300, 44" href="coffee.html">
+
+        <area shape="poly"
+          coords="140,121,181,116,204,160,204,222,191,270,140,329,85,355,58,352,37,322,40,259,103,161,128,147"
+          href="croissant.htm">''
+
+
+        <map name="workmap">
+          <area shape="circle" coords="337,300,44" href="coffee.htm" onclick="myFunction()">
+
+        </map>
+
+        <script>
+          function myFunction() {
+            function myFunction() {
+              alert("you clicked the coffee cup!");
+            }
+        </script>
+
+        <h3>html 이미지 -이미지 맵 까지 </h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
